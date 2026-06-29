@@ -1,7 +1,7 @@
 # 💍 Invitation Mariage Coutumier – Nelly & Sammy
 
 Site d'invitation numérique pour la cérémonie de dot (mariage coutumier Sawa/Bakossi)  
-des familles **ENONGUENE** et **NTANG MENGALLE**.
+des familles **ENONGUENE** et **MENGALLE**.
 
 ## 📅 Informations
 - **Date :** 1er Août 2026
